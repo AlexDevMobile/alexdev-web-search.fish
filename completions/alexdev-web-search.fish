@@ -5,4 +5,4 @@ for custom_env in (env | grep ^WEB_SEARCH)
     set -a contexts ( echo "$context" | string sub -s 12)
 end
 
-complete -c arale-web-search -f -n __fish_use_subcommand -a "$contexts"
+complete -c alexdev-web-search -f -n __fish_use_subcommand -a "$contexts"

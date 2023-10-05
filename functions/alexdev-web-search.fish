@@ -1,4 +1,4 @@
-function arale_web_search
+function alexdev-web-search
   set -l search_engines \
   google 'https://www.google.com/search?q=' \
   stackoverflow 'https://stackoverflow.com/search?q=' \
@@ -32,7 +32,7 @@ function arale_web_search
 
 end
 
-alias google='arale_web_search google'
-alias stackoverflow='arale_web_search stackoverflow'
-alias youtube='arale_web_search youtube'
-alias github='arale_web_search github'
+alias google='alexdev-web-search google'
+alias stackoverflow='alexdev-web-search stackoverflow'
+alias youtube='alexdev-web-search youtube'
+alias github='alexdev-web-search github'
