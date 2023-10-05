@@ -36,6 +36,12 @@
   <a href="#credits">Creadits</a> •
   <a href="#license">License</a>
 </p>
+<p
+  align="center">
+  <image
+    width="500"
+    src="https://github.com/AlerzDev/alexdev-web-search.fish/assets/23038676/50c271f8-3712-49a7-8b9a-e85d58851d7c">
+</p>
 
 ## Key Features
 
