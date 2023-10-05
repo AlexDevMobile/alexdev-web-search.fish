@@ -1,11 +1,12 @@
-<h1 
+<p
   align="center">
-  
   <img 
-    src="https://github.com/AlerzDev/alexdev-web-search.fish/assets/23038676/5cea7a51-f782-4e4e-8df8-e542386e4e66"        width="250">
-    <br>
+  src="https://github.com/AlerzDev/alexdev-web-search.fish/assets/23038676/5cea7a51-f782-4e4e-8df8-e542386e4e66"
+  width="250">
+</p>
+<h1
+  align="center">
   Web Search Fish Shell
-  <br>
 </h1>
 <h4 
   align="center">
@@ -26,6 +27,15 @@
     web-search.fish.
   </a>
 </h4>
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#requeriments">Requeriments</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#credits">Creadits</a> •
+  <a href="#license">License</a>
+</p>
 
 ## Key Features
 
