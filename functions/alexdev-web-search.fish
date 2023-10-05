@@ -31,8 +31,3 @@ function alexdev-web-search
   eval "$open_cmd '$url$query' &> /dev/null & disown"
 
 end
-
-alias google='alexdev-web-search google'
-alias stackoverflow='alexdev-web-search stackoverflow'
-alias youtube='alexdev-web-search youtube'
-alias github='alexdev-web-search github'
